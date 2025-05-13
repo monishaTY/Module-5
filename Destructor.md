@@ -4,7 +4,6 @@
 ### AIM  
 To create a Python class `Student` with a destructor.
 
----
 
 ### ALGORITHM
 
